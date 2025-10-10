@@ -1,7 +1,7 @@
 
-  "frames": \{\
-    "metal_pop": \{\
-      "frame": \{ "x": 30, "y": 46, "w": 162, "h": 150 \},\
+  "frames": 
+    "metal_pop": 
+      "frame": { "x": 30, "y": 46, "w": 162, "h": 150 \},\
       "spriteSourceSize": \{ "x": 0, "y": 0, "w": 162, "h": 150 \},\
       "sourceSize": \{ "w": 162, "h": 150 \}\
     \},\
