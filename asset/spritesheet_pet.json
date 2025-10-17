@@ -1,26 +1,13 @@
+
   "frames": {
-    "bird_1": {
-      "frame": { "x": 19, "y": 536, "w": 194, "h": 144 },
-      "sourceSize": { "w": 194, "h": 144 }
-    },
-    "egg": {
-      "frame": { "x": 29, "y": 6, "w": 187, "h": 204 },
-      "sourceSize": { "w": 187, "h": 204 }
-    },
-    "penguin_egg": {
-      "frame": { "x": 39, "y": 255, "w": 187, "h": 205 },
-      "sourceSize": { "w": 187, "h": 205 }
-    },
-    "bird_2": {
-      "frame": { "x": 277, "y": 514, "w": 209, "h": 137 },
-      "sourceSize": { "w": 209, "h": 137 }
-    },
-    "yellow_egg": {
-      "frame": { "x": 292, "y": 5, "w": 179, "h": 196 },
-      "sourceSize": { "w": 179, "h": 196 }
-    }
+    "egg": {"frame": {"x": 0, "y": 0, "w": 250, "h": 233}},
+    "gold_egg": {"frame": {"x": 250, "y": 0, "w": 250, "h": 233}},
+    "penguin_egg": {"frame": {"x": 0, "y": 233, "w": 250, "h": 233}},
+    "bird_1": {"frame": {"x": 0, "y": 466, "w": 250, "h": 233}},
+    "bird_2": {"frame": {"x": 250, "y": 466, "w": 250, "h": 233}}
   },
-    "meta": {
-    "image": "spritesheet_pet (1).png",
-    "size": { "w": 500, "h": 700 },
+  "meta": {
+    "image": "spritesheet_pet (2).png",
+    "size": {"w": 500, "h": 700},
   }
+}
